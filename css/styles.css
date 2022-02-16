@@ -13,8 +13,10 @@ body {
 
 .nav_title {
     font-size: 24px;
+    float:left
 }
 
 .nav_item  {
     font-size: 16px;
+    float: right;
 }
